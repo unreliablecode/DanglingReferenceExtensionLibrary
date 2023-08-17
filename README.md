@@ -31,7 +31,7 @@ Dangling references are a common issue in programming, leading to memory leaks a
 1. Clone or download the repository.
 
 ```bash
-git clone https://github.com/yourusername/dangling-reference-extension.git
+git clone https://github.com/unreliablecode/dangling-reference-extension.git
 ```
 Open the solution in your preferred C# development environment (e.g., Visual Studio, Visual Studio Code).
 Usage
